@@ -1,0 +1,2 @@
+# wallet
+Cryptocurrency pool code
